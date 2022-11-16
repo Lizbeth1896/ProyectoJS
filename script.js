@@ -1,3 +1,4 @@
+
 //porcentaje de mujeres y varones//
 
 let cantmujer = parseInt(prompt("Ingrese la cantidad de mujeres"))
@@ -23,6 +24,7 @@ alert("El monto de inversión a la Av La Mar fue: s/."+Amar+
 ", Av. Abancay: s/."+Aabancay+", A la Av 28 de Julio: s/."+Ajulio+
 ", A la Av Aviación: s/."+Aaviacion+" y por último a la Av Tacna: s/."+Atacna)
 
+
 //Ejercicio 3
 let general = prompt("Cantidad de Entradas generales vendidas")
 let mayores = prompt("Cantidad de Entradas para mayores de 65 años vendidas")
@@ -36,3 +38,4 @@ Mensaje = `El monto en Entradas generales fue: s/.${egeneral} <br>
 Monto de Entradas para mayores de 65 años fue: s/.${emayores} <br> 
 Monto de Entradas para menores de edad fue: s/.${emenores}`
 document.write(Mensaje)
+

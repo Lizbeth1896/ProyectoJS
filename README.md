@@ -1,1 +1,1 @@
-Se creo el codigo con Javascript
+Se creo el codigo con Javascrip
